@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Nishikant</h1>
-<h3 align="center">Pretty Good Developer</h3>
+<h1 align="center">Yash Nishikant</h1>
 
 - 🌱 I’m currently learning **Unity Engine,Python OpenCV**
 
