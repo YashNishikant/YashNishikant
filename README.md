@@ -1,6 +1,6 @@
 <h1 align="center">Yash Nishikant</h1>
 
-- 🌱 I’m currently learning **Unity Engine,Python OpenCV**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 Available Projects at [https://itch.io/search?q=notalegend](https://itch.io/search?q=notalegend)
 
