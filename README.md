@@ -16,6 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnishikant&show_icons=true&locale=en&layout=compact" alt="yashnishikant" /></p> 
 
-My recent presentation:
-https://www.youtube.com/watch?v=C4Nd93H9NKM&t=2728s
-(38:28 - 42:35)
+Computer Vision Presentation: 
+https://www.youtube.com/watch?v=C4Nd93H9NKM&t=2728s (38:28 - 42:35)
